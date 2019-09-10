@@ -1,0 +1,116 @@
+.bod{
+    text-align: left;
+    font-size: 20px;
+    margin-top: 0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.aboutAlude{
+    margin-top: 0px;
+  }
+
+  .left-div{
+    border: 5px;
+    width: 660px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    display:block;
+    float: left;
+  }
+  .right-div{
+    margin-left: 10px;
+    margin-top: 50px;
+    border: 5px;
+    width: 660px;
+    height: 500px;
+    font-size: 18px;
+    margin-bottom: 10px;
+    display:block;
+    float: right;
+  }
+
+  .bleft-div{
+    border: 5px;
+    width: 600px;
+    margin-left: 0px;
+    margin-bottom: 50px;
+    display:block;
+    float: right;
+  }
+  .bright-div{
+    font-size: 18px;
+    margin-left: 10px;
+    margin-top: 50px;
+    border: 5px;
+    width: 660px;
+    margin-bottom: 10px;
+    display:block;
+    float: left;
+  }
+
+  .heading{
+    font-size: 20px;
+    margin-top: 0px;
+    text-transform: uppercase;
+  }
+
+  .b-about-aluda{
+    margin-top: 10PX;
+    /*background-color: cadetblue;*/
+  }
+
+  .bottom-left-div{
+    /*margin-right: 300px;*/
+    margin-top: 150px;
+    
+    margin-bottom: 10px;
+  }
+  .bottom-right-div{
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-bottom: 10px;
+  }
+  /*.infotext{
+    margin-left: 300px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+  }*/
+  .lastSect{
+    margin-top: 50px;
+    /*background-color: antiquewhite;*/
+    margin-right: 20px;
+  }
+  .text{
+    text-align: center;
+    font-size: 24px;
+    margin-left: 660px;
+  }
+  .firstimg{
+    margin-left: 10px;
+  }
+  .secondimg{
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+  .contact{
+    margin-top: 50px;
+    background-color:aliceblue;
+    margin-right: 20px;
+    float: unset;
+   }
+  .secondcol{
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+  .col2{
+    margin-left:300px;
+    margin-right: 450px;
+  }
+  /*.col1{
+    margin-left: 50px;
+  }*/
+  .col3{
+    margin-left: 20px;
+  }
+  /*.firstcol{
+  }*/
